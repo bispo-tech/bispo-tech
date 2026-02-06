@@ -5,6 +5,9 @@
 A **BISPO TECH** é uma empresa de tecnologia focada no desenvolvimento de
 soluções empresariais modernas, seguras e escaláveis.
 
+Atuamos com arquitetura moderna, boas práticas de engenharia de software
+e foco em produtos robustos, preparados para crescer junto com nossos clientes.
+
 ## Produto
 
 ### 👁️ Vision ERP
@@ -14,18 +17,14 @@ empresas que precisam de controle, visão estratégica e crescimento sustentáve
 **Principais características:**
 - Arquitetura moderna e desacoplada
 - Multi-tenant desde a base
-- APIs REST seguras
+- APIs seguras e bem definidas
 - Evolução contínua e versionada
-
-## Tecnologias
-- Backend: Delphi / APIs REST
-- Frontend: Web moderna
-- Banco de Dados: PostgreSQL
-- Infraestrutura: Cloud-first
+- Base sólida para recursos de inteligência artificial
 
 ## Governança
-- Controle de versão semântico
+- Versionamento semântico
 - Fluxo de branches profissional
+- Boas práticas de engenharia
 - Código mantido pela BISPO TECH
 
 ---
